@@ -1,0 +1,17 @@
+{
+  "name": "mrsWeb.ru",
+  "authors": [
+    "Silent_World <nev.1993@mail.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
